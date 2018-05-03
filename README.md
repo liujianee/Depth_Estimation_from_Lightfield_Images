@@ -1,1 +1,1 @@
-This repository contains code and data used in Benchmark dataset and method for depth estimation from lighfield images
+This repository contains code and data used in ["Benchmark dataset and method for depth estimation from lighfield images"](http://staffhome.ecm.uwa.edu.au/~00053650/papers/Feng_TIP2018_LF_author_version.pdf).
