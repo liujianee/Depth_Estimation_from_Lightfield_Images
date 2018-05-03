@@ -15,7 +15,7 @@ Please contact [Prof. Ajmal Mian](http://staffhome.ecm.uwa.edu.au/~00053650/) fo
 
 
 ### Citation
-'
+'''
 @article{feng2018benchmark,
   title={Benchmark Dataset and Method for Depth Estimation from Light Field Images},
   author={Feng, Mingtao and Wang, Yaonan and Liu, Jian and Zhang, Liang and Zaki, Hasan FM and Mian, Ajmal},
@@ -23,6 +23,6 @@ Please contact [Prof. Ajmal Mian](http://staffhome.ecm.uwa.edu.au/~00053650/) fo
   year={2018},
   publisher={IEEE}
 }
-'
+'''
 
 
