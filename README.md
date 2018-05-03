@@ -26,8 +26,8 @@ If this work is helpful for your research, please consider citing it as:
 }
 ```
 
-### Reference
-[Lee-Kang Liu's code](http://videoprocessing.ucsd.edu/~leekang/publications.html)
-[Douglas Lanman's code](http://mesh.brown.edu/dlanman/cv.html)
-[Yue M. Lu's code](https://lu.seas.harvard.edu/software)
+### References
+- [Lee-Kang Liu's code](http://videoprocessing.ucsd.edu/~leekang/publications.html)
+- [Douglas Lanman's code](http://mesh.brown.edu/dlanman/cv.html)
+- [Yue M. Lu's code](https://lu.seas.harvard.edu/software)
 
